@@ -20,7 +20,7 @@ export class Managment extends Component {
       <div>
         <h1>Counter</h1>
 
-        <p>This is a simple example of a React component.</p>
+        <p>OLA</p>
 
         <p>Current count: <strong>{this.state.currentCount}</strong></p>
 
