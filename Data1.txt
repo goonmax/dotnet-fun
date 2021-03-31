@@ -1,0 +1,16 @@
+// standard test file
+123,Frodo inc,2006, lyons,"1,021,000.16",0.0,
+U2123,Sam Inc,2006, lyons,"21,600.00",13.10,123
+A721,Merry Inc,2604, Kingston,"21,600.10",103.00,
+U2122,Pippin Inc,2612, reid,"21,600.00",0
+U1123,Huckelberry corp,2612, Turner,"21,600.00",13.10,
+U3123,Gandalf Inc,2006, lyons,"69,600.01","18,200.00",A721, U2123,U2122,123,U2q,U211193
+U211193,Aragorn Inc,2615,Flynn,"1,821,600.00",13.10
+U2q,Boromir Inc,1004, Sydney,"72,111.09","1,13.10",
+U2,"Bono of, U2",1004, Sydney,"1,982,123","873,213.00",U2122,U211193
+Alice1,Alice Cooper,1675,Gladesvile,"8,123,189","3,000,000.3",
+M00ney,Keith Moon,1004,Sunshine Wembley,26000.12,1024,A721
+F001,Gimli,3018,Altona,"8,096.00","256",F002
+F002,Legolas,6231,Bunbury,"1,096.00","0,000.00",F001
+rckstr1,Sabaton,5278,Wepar,"9,999,999.99",0.0,U2q,U2,M00ney
+Boris1,Boris,2612,Russian Embassy Reid,146000.14,121024,U1123,U2q
